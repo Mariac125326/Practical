@@ -9,11 +9,10 @@
 
 ## Vue3 - Installation
 
-1. Install dependencies:
-"npm install"
-2. Start the development server:
-"npm run dev"
-3. Open your browser to the URL shown in the terminal (typically `http://localhost:5173`)
+1. Vue project folder: `TechStore`
+1. Install dependencies: `npm install`
+1. Start the development server: `npm run dev`
+1. Open your browser to the URL shown in the terminal (typically `http://localhost:5173`)
 
 ## Vue3 - Material design
 
