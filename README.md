@@ -25,7 +25,7 @@
 ## Front-end Tasks - Vue 3
 
 1. Add an image to each product.
-1. Add a toggle button to switch the Available products from grid view to list view, displaying their respectful image next to it.
+1. Add a toggle button to switch the Available products from grid view to list view, displaying their respective image next to it.
 1. Add a remove button to each cart item. When click it should remove the item from the cart and add it back to the stock amount.
 1. Add a sold out banner to the available products when the product stock is 0.
 1. Add a modal popup for each product, to display the product details.
