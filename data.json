@@ -1,0 +1,79 @@
+[
+    {
+      "name": "Laptop",
+      "description": "This high-performance laptop combines speed, portability, and durability for professionals and creatives alike. With a sleek aluminum body and powerful internals, it’s designed to handle multitasking, demanding applications, and entertainment with ease. \n\nThe crisp display delivers stunning visuals, while the long-lasting battery ensures you can stay productive all day. Whether you're coding, designing, or streaming, this laptop adapts effortlessly to your workflow.",
+      "price": 1000.00,
+      "stock": 5,
+      "image": "images/laptop.jpg"
+    },
+    {
+      "name": "Mouse",
+      "description": "A precision-engineered wireless mouse built for comfort and control. Its ergonomic design fits naturally in your hand, reducing strain during extended use. The smooth tracking sensor ensures pinpoint accuracy across a variety of surfaces.\n\nWith silent clicks and long battery life, this mouse is perfect for both office and home environments. Lightweight and portable, it’s the ideal companion for your everyday computing needs.",
+      "price": 29.99,
+      "stock": 0,
+      "image": "images/mouse.jpg"
+    },
+    {
+      "name": "Keyboard",
+      "description": "Experience precision typing with this mechanical-style keyboard that balances tactile feedback and quiet operation. The keys are responsive and durable, providing a comfortable typing experience for gamers, writers, and professionals.\n\nFeaturing customizable backlighting, it brings a touch of personality to your workspace. Built for performance and longevity, this keyboard ensures every keystroke feels satisfying and reliable.",
+      "price": 79.99,
+      "stock": 10,
+      "image": "images/keyboard.jpg"
+    },
+    {
+      "name": "Monitor",
+      "description": "A stunning full HD monitor that brings your visuals to life with sharp detail and vibrant color. Designed for productivity and entertainment, it features an ultra-thin bezel for immersive viewing and a modern aesthetic.\n\nWith adjustable height and tilt options, you can position it for ultimate comfort during long hours of work or play. Perfect for designers, gamers, or anyone who values crystal-clear visuals.",
+      "price": 299.99,
+      "stock": 7,
+      "image": "images/monitor.jpg"
+    },
+    {
+      "name": "Headphones",
+      "description": "Immerse yourself in pure sound with these noise-canceling over-ear headphones. Designed for audiophiles and travelers, they deliver deep bass, clear mids, and crisp highs, making every listening experience exceptional.\n\nSoft memory foam ear cups provide comfort even during extended use, while the built-in microphone ensures crystal-clear calls. Whether you’re at home, in the office, or on the go, these headphones offer premium sound and comfort.",
+      "price": 149.99,
+      "stock": 0,
+      "image": "images/headphones.jpg"
+    },
+    {
+      "name": "Webcam",
+      "description": "Upgrade your virtual meetings with this HD webcam that delivers sharp, lifelike video quality. The built-in microphone captures your voice clearly, ensuring professional communication every time.\n\nWith plug-and-play functionality, it’s compatible with most conferencing platforms and operating systems. Compact and adjustable, it’s perfect for remote work, streaming, or online classes.",
+      "price": 89.99,
+      "stock": 1,
+      "image": "images/webcam.jpg"
+    },
+    {
+      "name": "Speakers",
+      "description": "Bring your audio to life with these compact yet powerful stereo speakers. Whether you’re watching movies, playing games, or listening to music, the balanced sound and deep bass will enhance every moment.\n\nEasy to connect and stylishly designed, they fit seamlessly into any workspace or entertainment setup. Small in size but big on sound, these speakers are a perfect upgrade for your computer audio.",
+      "price": 45.99,
+      "stock": 2,
+      "image": "images/speakers.jpg"
+    },
+    {
+      "name": "Mouse pad",
+      "description": "A smooth and durable mouse pad designed to enhance your precision and comfort. The non-slip rubber base keeps it in place during intense work or gaming sessions.\n\nCrafted with a fine-textured surface, it ensures effortless mouse movement and accurate tracking. Sleek and minimalist, this mouse pad complements any desk setup while offering long-lasting performance.",
+      "price": 22.99,
+      "stock": 6,
+      "image": "images/mousepad.jpg"
+    },
+    {
+      "name": "Coffee warmer",
+      "description": "Keep your coffee or tea at the perfect temperature with this stylish coffee warmer. Ideal for busy professionals, it gently maintains your drink’s warmth so you can enjoy every sip without reheating.\n\nCompact and energy-efficient, it’s designed to fit seamlessly on any desk. Whether you’re working late nights or early mornings, this little gadget ensures your drink stays just right.",
+      "price": 49.99,
+      "stock": 3,
+      "image": "images/coffeewarmer.jpg"
+    },
+    {
+      "name": "Rubber ducky",
+      "description": "Not your average bath toy - this is the legendary Rubber Ducky, priced at a jaw-dropping premium for collectors who appreciate the finer (and quirkier) things in life. Crafted from the highest-quality rubber known to humankind, it’s more symbol than toy.\n\nIt represents whimsy, nostalgia, and the boundless potential of luxury goods gone too far. Own it not for what it does, but for what it represents: the pinnacle of playful extravagance.",
+      "price": 999999.99,
+      "stock": 0,
+      "image": "images/rubberducky.jpg"
+    },
+    {
+      "name": "Cat bed",
+      "description": "Give your feline friend the comfort they deserve with this cozy cat bed. Soft, warm, and irresistibly snug, it’s designed to make your cat feel safe and pampered. The plush interior cradles them in comfort for long, blissful naps.\n\nLightweight and easy to clean, this affordable cat bed offers great value and charm. Perfect for cats of all sizes, it’s sure to become their favorite spot in the house.",
+      "price": 0.99,
+      "stock": 9,
+      "image": "images/catbed.jpg"
+    }
+  ]
