@@ -7,14 +7,14 @@
 - [PostgreSQL](https://www.postgresql.org/)
 - [Visual Studio 2022](https://visualstudio.microsoft.com/downloads/) (Optional)
 
-## Vue3 - Installation
+## Vue 3 - Installation
 
 1. Vue project folder: `TechStore`
 1. Install dependencies: `npm install`
 1. Start the development server: `npm run dev`
 1. Open your browser to the URL shown in the terminal (typically `http://localhost:5173`)
 
-## Vue3 - Material design
+## Vue 3 - Material design
 
 - This project uses Vuetify as the material design: https://vuetifyjs.com/en/
 
@@ -42,11 +42,12 @@
 
 ## Back-end Tasks - .net 9
 
-- Create a back end to do the following:
-    1. Get items
-    1. Update items
-    1. Log check outs
-    1. Log product empty stock
+Create a back end to do the following:
+
+1. Get items
+1. Update items
+1. Log check outs
+1. Log product empty stock
 
 ### Bonus
 
