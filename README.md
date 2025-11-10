@@ -49,11 +49,6 @@ Create a back end to do the following:
 1. Log check outs
 1. Log product empty stock
 
-### Bonus
-
-1. Add an item expiry date, when it is expired, delete the item in the table.
-1. Add email notification when stock is low.
-
 ## Database Tasks - Postgres
 
 1. Create a user to access database
