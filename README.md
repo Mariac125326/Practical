@@ -73,7 +73,7 @@ Create a back end to do the following:
 
 - Include all relevant files and folder. 
 - Please **do not** include `node_modules`.
-- Dump your database with `pg_dump` 
+- Dump your database with `pg_dump` in a .sql format
 
 > PS. If you are not able to send the zip with Gmail, create a share folder, and send us the link!
 
